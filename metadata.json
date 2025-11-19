@@ -1,0 +1,5 @@
+{
+  "name": "VirtuShot",
+  "description": "A professional, Matterport-style virtual tour builder and viewer. Create immersive 360 tours with hotspots and smooth transitions.",
+  "requestFramePermissions": []
+}
